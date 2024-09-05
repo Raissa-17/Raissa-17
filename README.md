@@ -1,5 +1,5 @@
 Hi, I’m Rai.
-I live in Brazil and recently discovered GirHub due to my school work here in Brazil. I'm not that interested in the technology area, - although I take the course due to the lack of options 😅 - but I'm here, and who knows, maybe I'll show up more often.
+I live in Brazil and recently discovered GirHub due to my school work here in Brazil. but I'm here, and who knows, maybe I'll show up more often.
 
 
 
