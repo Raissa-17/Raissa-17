@@ -1,24 +1,14 @@
-# Olá! 👋
+# Olá! Eu sou a Raissa! ❤️
 
-Sou do Brasil e estou aqui para usar este site para os meus trabalhos escolares. 
+![GIF de boas-vindas rs](https://media.giphy.com/media/oIlblLqoXzpFm/giphy.gif)
 
-## Sobre Mim
+Sou apaixonado por conversar com Deus e estudar para o meu futuro. Estou no meu Terceiro Ano do Ensino Médio e cursando Técnico em Informática e em breve termino :) E pronta para ir em rumo ao meu futuro. Não sou uma super programadora, mas eu acho legal fazer sites com o Gpt. Gosto de compartilhar o que estou pensando e por favor, espero que se comovem com a minha falta de experiência programadora e a humildade de usar o Gpt >_< É isso, espero que gostem rs.
 
-- 🇧🇷 Localização: Brasil
-- 🎓 Estudante do Ensino Médio
+### Sobre mim:
+- 🔭 Atualmente trabalhando em um projeto de um livro e criei um portifólio caso queira ver sobre mim e o livro (Não está completo ;)
+- 🌱 Aprendendo mais sobre Matemática e Português para o vestibular ;)
+- 📫 Como me encontrar: Apenas no Wattpad :D
 
-## Meus Gostos
-
-- ❤️ Gosto de estar com Deus e com os irmãos.
-- 📚 Gosto de ler livros, especialment cristão e de romance.
-- 🎮 Sou fã de videogames.
-- 🎶 Aprecio ouvir música, especialmente K-pop e músicas cristãs.
-- 🌍 Um dia viajando ao mundo!
-
-## Passatempos
-
-- 🏞️ Olhar para o céu e conversar com Deus.
-- 🍳 Mexer no Notebook.
-- 🎨 Gosto de desenhar e me envolver em atividades artísticas.
-
-Sinta-se à vontade para entrar em contato se quiser compartilhar ideias para os meus trabalhos escolares!
+### Linguagens e Tecnologias que uso:
+- Linguagens: Html, CSS, JavaScript
+- Ferramentas: Git, VSCode
